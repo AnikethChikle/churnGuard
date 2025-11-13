@@ -1,0 +1,12 @@
+{
+    "model_name": "Logistic Regression",
+    "training_date": "2025-11-13 15:46:15",
+    "performance_metrics": {
+        "Model": "Logistic Regression",
+        "Accuracy": 0.7381121362668559,
+        "Precision": 0.5042444821731749,
+        "Recall": 0.7941176470588235,
+        "F1-Score": 0.616822429906542,
+        "AUC-ROC": 0.8397840295538505
+    }
+}
