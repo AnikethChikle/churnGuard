@@ -102,21 +102,9 @@ MIT License
 
 **Chikle Aniketh**
 - GitHub: [@AnikethChikle](https://github.com/AnikethChikle)
-- Email: your.email@example.com
+- Email: chikleaniketh@gmail.com
 
 ---
-
-⭐ Star this repo if you find it helpful!
-
-Important: Update line at bottom:
-
-Replace your.email@example.com with your actual email
-The GitHub link should already be correct: @AnikethChikle
-
-
-Save (Ctrl + S)
-
-
 ✅ Now You Have All Files!
 Check you have:
 
