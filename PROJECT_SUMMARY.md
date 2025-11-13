@@ -473,14 +473,11 @@ Business Impact (Track Quarterly)
 📞 Support & Contact
 Get Help
 
-📧 Email: your.email@example.com
-💼 LinkedIn: Your Profile
-🐱 GitHub: @YOUR_USERNAME
+📧 Email: chikleaniketh@gmail.com
+💼 LinkedIn: Aniketh Chikle
+🐱 GitHub:AnikethChikle
 
-Report Issues
 
-🐛 Bug Reports: GitHub Issues
-💡 Feature Requests: GitHub Discussions
 
 
 🎉 Conclusion
